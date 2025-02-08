@@ -1,6 +1,6 @@
 # DAA_Handson4
 Problem 0
-code:[fibonaci output]https://github.com/mounikamittapalli/DAA_Handson4/blob/b43c1d709718ee7de9815db66f1fc963e850aec6/fibonacci.py
+code:[fibonaci output]{https://github.com/mounikamittapalli/DAA_Handson4/blob/b43c1d709718ee7de9815db66f1fc963e850aec6/fibonacci.py}
 Problem 1
 code[merge_k_sortedarrays]https://github.com/mounikamittapalli/DAA_Handson4/blob/b43c1d709718ee7de9815db66f1fc963e850aec6/merge_k_sorted arrays.py
 **Time complexity **

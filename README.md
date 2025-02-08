@@ -3,9 +3,9 @@ Problem 0
 code:[fibonaci output](./fibonacci.py)
 output:[output]   
 Problem 1     
-code:[merge_k_sorted arrays](./merge_k_sortedarrays.py)  
+code:[merge_k_sorted arrays](./merge_k_sortedarrays.py)    
 output:[output]   
-**Time complexity **
+**Time complexity  
 Heap tracks the smallest elements from K arrays  
 Initially, inserting the first element of each array into the heap takes O(K log K) time  
 After that, algortithms continue to popout the smallest element & push corresponding element from array  

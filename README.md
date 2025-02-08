@@ -3,7 +3,7 @@ Problem 0
 code:[fibonaci output](./fibonacci.py)
 output:[output]   
 Problem 1     
-code:[merge_k_sorted arrays](.merge_k_sortedarrays.py)
+code:[merge_k_sorted arrays](./merge_k_sortedarrays.py)  
 output:[output]   
 **Time complexity **
 Heap tracks the smallest elements from K arrays  
